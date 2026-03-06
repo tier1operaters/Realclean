@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&family=Inter:wght@400;500;700&display=swap');
+
 .fade-in {
   opacity: 0;
   transform: translateY(40px);
@@ -11,7 +14,6 @@
 .will-change-transform {
   will-change: transform;
 }
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&family=Inter:wght@400;500;700&display=swap');
 
 :root {
   --color-slate: #0F172A;
